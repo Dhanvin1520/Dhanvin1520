@@ -29,9 +29,7 @@
 <!-- About Me -->
 <h1><img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/34376b0e-4ae2-4278-9d3d-82e8016a87d6" width="45"> About Me</h1> 
 
-- 👋 Hi there! I'm a first-year BTech student pursuing Computer Science and Engineering with a focus on Artificial Intelligence. I'm passionate about problem-solving and innovation, and I'm always looking for ways to deepen my understanding of technology and improve my skills.
-- 💻 As a Frontend Developer, I specialize in building intuitive and engaging user interfaces. I enjoy creating responsive, aesthetically pleasing, and functional web applications that offer a seamless user experience.
-- 🔍 Currently, I'm diving into Data Structures and Algorithms (DSA) with Python to enhance my problem-solving abilities and prepare for coding challenges.
+
 - 📫 Reach me at: dhanvin.vadlamudi269@gmail.com
 <!-- Languages and Tools -->
 <h1><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="30px" height="38"> Languages and Tools</h1>
