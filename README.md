@@ -1,25 +1,38 @@
-<div align="center">
+<table border="0" cellspacing="0" cellpadding="20">
+<tr>
+<td width="300" align="center" valign="middle">
 
-<!-- BIG ANIMATED NAME -->
-<img src="https://capsule-render.vercel.app/api?type=transparent&color=gradient&customColorList=0,2,2,5,30&height=100&section=header&text=Hi%20%F0%9F%91%8B%2C%20I'm%20Dhanvin%20Vadlamudi&fontSize=48&fontColor=58a6ff&animation=fadeIn&fontAlignY=60" />
+<img src="https://raw.githubusercontent.com/Dhanvin1520/Dhanvin1520/main/assets/profile.png" width="260" style="border-radius:16px" />
+
+</td>
+<td valign="middle">
+
+```
+8888888b. 888    888       d8888888b    888888     8888888888888b    888
+888  "Y88b888    888      d888888888b   888888     888  888  8888b   888
+888    888888    888     d88P88888888b  888888     888  888  88888b  888
+888    8888888888888    d88P 888888Y88b 888Y88b   d88P  888  888Y88b 888
+888    888888    888   d88P  888888 Y88b888 Y88b d88P   888  888 Y88b888
+888    888888    888  d88P   888888  Y88888  Y88o88P    888  888  Y88888
+888  .d88P888    888 d8888888888888   Y8888   Y888P     888  888   Y8888
+8888888P" 888    888d88P     888888    Y888    Y8P    8888888888    Y888
+```
 
 <br>
 
-<!-- ROLE TYPING -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2500&pause=800&color=00D9FF&center=true&vCenter=true&width=700&lines=%F0%9F%9A%80+Backend+Engineer+%C2%B7+AI%2FML+Systems;%F0%9F%A7%A0+LLMs+%C2%B7+NLP+Pipelines+%C2%B7+RAG+Systems;%F0%9F%94%A5+Production+systems+that+actually+ship;%F0%9F%8E%AF+Open+to+SWE+%26+AI%2FML+Internships)](https://git.io/typing-svg)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117)](https://www.linkedin.com/in/dhanvin-vadlamudi-365614318)&nbsp;[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=0d1117)](https://www.instagram.com/dhanvin_1520/)&nbsp;[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117)](mailto:dhanvin.vadlamudi265@gmail.com)&nbsp;[![GitHub](https://img.shields.io/badge/GitHub-ffffff?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117)](https://github.com/Dhanvin1520)
 
-<br>
-
-<!-- PROFILE VIEWS -->
 <img src="https://komarev.com/ghpvc/?username=Dhanvin1520&style=for-the-badge&color=58a6ff&label=PROFILE+VIEWS" />
 
-</div>
+</td>
+</tr>
+</table>
 
 ---
 
-<img align="right" width="38%" src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" />
-
 ## ⚡ About Me
+
+<img align="right" width="35%" src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" />
 
 🎓 &nbsp;B.Tech AI · **Newton School of Technology** `2028`
 
@@ -32,8 +45,6 @@
 📍 &nbsp;Delhi NCR, India
 
 <br clear="right"/>
-
----
 
 ## 💼 Experience
 
@@ -51,108 +62,15 @@
 ## 🛠️ Tech Stack
 
 <div align="center">
-
 <img src="https://skillicons.dev/icons?i=python,javascript,typescript,html,css,fastapi,nodejs,express,react,nextjs,tailwind,pytorch,tensorflow,opencv,mongodb,postgres,docker,githubactions,vercel,git&theme=dark&perline=10" />
-
-</div>
-
-> `Python` `JavaScript` `TypeScript` · `FastAPI` `Node.js` `Express` · `PyTorch` `HuggingFace BART` `SpaCy NER` · `React` `Next.js` `Tailwind` `Chrome MV3` · `MongoDB` `PostgreSQL` · `Docker` `GitHub Actions` `Vercel` `Render`
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Dhanvin1520&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=00d9ff&text_color=c9d1d9&ring_color=58a6ff&count_private=true" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dhanvin1520&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=6" />
-
-</div>
-
-<div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Dhanvin1520&bg_color=0d1117&color=58a6ff&line=00d9ff&point=ffffff&area=true&area_color=0d2137&hide_border=true&custom_title=Contribution%20Graph" width="100%" />
-</div>
-
----
-
-## 🏆 Trophies
-
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Dhanvin1520&theme=darkhub&no-frame=true&no-bg=true&margin-w=6&row=1&column=6" />
-</div>
-
----
-
-## 🐍 Contribution Snake
-
-<div align="center">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Dhanvin1520/Dhanvin1520/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Dhanvin1520/Dhanvin1520/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/Dhanvin1520/Dhanvin1520/output/github-snake-dark.svg" />
-</picture>
-</div>
-
-> ⚠️ **Snake setup:** Go to your profile repo → Actions tab → New Workflow → paste the snake action YAML below so this auto-generates.
-
-<details>
-<summary><b>📋 Click to copy Snake GitHub Action YAML</b></summary>
-
-```yaml
-# .github/workflows/snake.yml
-name: Generate Snake
-
-on:
-  schedule:
-    - cron: "0 */12 * * *"
-  workflow_dispatch:
-
-jobs:
-  generate:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: Platane/snk/svg-only@v3
-        with:
-          github_user_name: ${{ github.repository_owner }}
-          outputs: |
-            dist/github-snake.svg
-            dist/github-snake-dark.svg?palette=github-dark
-      - uses: crazy-max/ghaction-github-pages@v3.1.0
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-```
-
-</details>
-
----
-
-## 📡 Let's Connect
-
-<div align="center">
-
-<a href="https://www.linkedin.com/in/dhanvin-vadlamudi-365614318" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-%20Dhanvin%20Vadlamudi-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117" height="38" />
-</a>
-&nbsp;&nbsp;
-<a href="mailto:dhanvin.vadlamudi265@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-dhanvin.vadlamudi265%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117" height="38" />
-</a>
-&nbsp;&nbsp;
-<a href="https://github.com/Dhanvin1520" target="_blank">
-  <img src="https://img.shields.io/badge/GitHub-Dhanvin1520-ffffff?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117" height="38" />
-</a>
-
-<br><br>
-
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="32" /> &nbsp;<b>Open to collabs and internship conversations — hit me up!</b>
-
 </div>
 
 <br>
 
+> `Python` `JavaScript` `TypeScript` · `FastAPI` `Node.js` `Express` · `PyTorch` `HuggingFace` `SpaCy` · `React` `Next.js` `Tailwind` `Chrome MV3` · `MongoDB` `PostgreSQL` · `Docker` `GitHub Actions` `Vercel`
+
+---
+
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a2a4a,100:2c5364&height=130&section=footer&text=Keep%20Building%20%F0%9F%9A%80&fontSize=20&fontColor=58a6ff&fontAlignY=65&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a2a4a,100:2c5364&height=100&section=footer&text=Keep%20Building%20%F0%9F%9A%80&fontSize=16&fontColor=58a6ff&fontAlignY=65&animation=fadeIn" />
 </div>
