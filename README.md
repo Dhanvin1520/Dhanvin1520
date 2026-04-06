@@ -36,20 +36,20 @@
 </a>
 &nbsp;
 <a href="https://github.com/Dhanvin1520">
-  <img src="https://img.shields.io/badge/GitHub-2ea44f?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-6e7681?style=for-the-badge&logo=github&logoColor=white&labelColor=6e7681&color=6e7681" />
 </a>
 
 </div>
 
 <!-- PROFILE VIEWS CENTER -->
-<div align="center">
+<div align="center" style="display:flex; justify-content:center; align-items:center; gap:10px;">
 
-<span style="font-size:16px; margin-right:8px;">
+<span style="font-size:15px;">
   👀 Profile Views :
 </span>
 
-<img src="https://komarev.com/ghpvc/?username=Dhanvin1520&style=flat&color=58a6ff&label=" 
-     style="height:32px; transform:scale(1.6); transform-origin:left center;" />
+<img src="https://komarev.com/ghpvc/?username=Dhanvin1520&style=flat&color=22c55e&label=" 
+     style="height:30px; transform:scale(1.7);" />
 
 </div>
 
