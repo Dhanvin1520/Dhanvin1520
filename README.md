@@ -1,11 +1,15 @@
 <table border="0" cellspacing="0" cellpadding="20">
 <tr>
+
+<!-- LEFT IMAGE -->
 <td width="300" align="center" valign="middle">
+  <img src="https://raw.githubusercontent.com/Dhanvin1520/Dhanvin1520/main/assets/profile.png" width="260" style="border-radius:16px" />
+</td>
 
-<img src="https://raw.githubusercontent.com/Dhanvin1520/Dhanvin1520/main/assets/profile.png" width="260" style="border-radius:16px" />
-
+<!-- RIGHT CONTENT -->
 <td valign="middle">
 
+<!-- NAME ASCII -->
 <pre>
 ██████╗  ██╗  ██╗ █████╗ ███╗   ██╗ ██╗   ██╗ ██╗ ███╗   ██╗
 ██╔══██╗ ██║  ██║██╔══██╗████╗  ██║ ██║   ██║ ██║ ████╗  ██║
@@ -17,19 +21,35 @@
 
 <br>
 
-<!-- buttons -->
-...
-</td>
+<!-- SOCIAL BUTTONS (IMPROVED COLORS) -->
+<p align="left">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117)](https://www.linkedin.com/in/dhanvin-vadlamudi-365614318)&nbsp;[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=0d1117)](https://www.instagram.com/dhanvin_1520/)&nbsp;[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117)](mailto:dhanvin.vadlamudi265@gmail.com)&nbsp;[![GitHub](https://img.shields.io/badge/GitHub-ffffff?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117)](https://github.com/Dhanvin1520)
+<a href="https://www.linkedin.com/in/dhanvin-vadlamudi-365614318">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117"/>
+</a>
 
-<img src="https://komarev.com/ghpvc/?username=Dhanvin1520&style=for-the-badge&color=58a6ff&label=PROFILE+VIEWS" />
+<a href="https://www.instagram.com/dhanvin_1520/">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=0d1117"/>
+</a>
+
+<a href="mailto:dhanvin.vadlamudi265@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117"/>
+</a>
+
+<a href="https://github.com/Dhanvin1520">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117"/>
+</a>
+
+</p>
+
+<br>
+
+<!-- PROFILE VIEWS -->
+<img src="https://komarev.com/ghpvc/?username=Dhanvin1520&style=for-the-badge&color=58a6ff&label=PROFILE+VIEWS"/>
 
 </td>
 </tr>
 </table>
-
----
 
 ## ⚡ About Me
 
