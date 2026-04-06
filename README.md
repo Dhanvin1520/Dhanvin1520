@@ -4,15 +4,22 @@
 
 <img src="https://raw.githubusercontent.com/Dhanvin1520/Dhanvin1520/main/assets/profile.png" width="260" style="border-radius:16px" />
 
-</td>
 <td valign="middle">
+
+<pre>
 ██████╗  ██╗  ██╗ █████╗ ███╗   ██╗ ██╗   ██╗ ██╗ ███╗   ██╗
 ██╔══██╗ ██║  ██║██╔══██╗████╗  ██║ ██║   ██║ ██║ ████╗  ██║
 ██║  ██║ ███████║███████║██╔██╗ ██║ ██║   ██║ ██║ ██╔██╗ ██║
 ██║  ██║ ██╔══██║██╔══██║██║╚██╗██║ ╚██╗ ██╔╝ ██║ ██║╚██╗██║
 ██████╔╝ ██║  ██║██║  ██║██║ ╚████║  ╚████╔╝  ██║ ██║ ╚████║
 ╚═════╝  ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═══╝   ╚═══╝   ╚═╝ ╚═╝  ╚═══╝
+</pre>
+
 <br>
+
+<!-- buttons -->
+...
+</td>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117)](https://www.linkedin.com/in/dhanvin-vadlamudi-365614318)&nbsp;[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=0d1117)](https://www.instagram.com/dhanvin_1520/)&nbsp;[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117)](mailto:dhanvin.vadlamudi265@gmail.com)&nbsp;[![GitHub](https://img.shields.io/badge/GitHub-ffffff?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117)](https://github.com/Dhanvin1520)
 
