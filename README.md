@@ -70,7 +70,7 @@
 
 🎯 &nbsp;Targeting **AI/ML & Backend internships** at product-driven startups
 
-📍 &nbsp;Delhi NCR, India
+📍 &nbsp; Delhi | Hyderabad , India
 
 <br clear="right"/>
 
